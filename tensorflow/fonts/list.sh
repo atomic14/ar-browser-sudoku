@@ -1,0 +1,1 @@
+find "$PWD" -name "*.ttf" -o -name "*.TTF" -o -name "*.otf" -o -name "*.OTF" > ./fonts.list

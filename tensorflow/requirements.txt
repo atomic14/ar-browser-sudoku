@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+pillow
+pandas
+numpy
+jupyter
+tensorflowjs
+fonttools
