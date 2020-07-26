@@ -4,7 +4,7 @@ You can find details on how this project works in the video. You can also try it
 
 https://sudoku.cmgresearch.com
 
-[![Demo Video](https://img.youtube.com/vi/Ueim2Ko8VWo/0.jpg)](https://www.youtube.com/watch?v=Ueim2Ko8VWo)
+[![Demo Video](https://img.youtube.com/vi/cOC-ad0BsY0/0.jpg)](https://www.youtube.com/watch?v=cOC-ad0BsY0)
 
 This project will let you use your phone (or your computers webcam) as an Augmented Reality camera for solving Sudoku puzzles.
 
