@@ -56,6 +56,12 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
+You may need to upgrade `pip` to the latest version if you have errors during the `pip install` phase.
+
+```
+pip install --upgrade pip
+```
+
 You will need to go into the `tensorflow/fonts` folder and unzip the fonts files. You'll then need to run the `list.sh` script to update the list of fonts.
 
 ```
