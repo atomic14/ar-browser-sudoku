@@ -56,6 +56,12 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
+You will need to go into the `tensorflow/fonts` folder and unzip the fonts files. You'll then need to run the `list.sh` script to update the list of fonts.
+
+```
+sh list.sh
+```
+
 ## Running the notebooks
 
 ```
