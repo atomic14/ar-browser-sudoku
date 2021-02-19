@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # Augmented Reality Sudoku Solver
 
 You can find details on how this project works in the video. You can also try it out here:
@@ -54,6 +55,12 @@ cd tensorflow
 python3 -m venv venv
 . ./venv/bin/activate
 pip install -r requirements.txt
+```
+
+You may need to upgrade `pip` to the latest version if you have errors during the `pip install` phase.
+
+```
+pip install --upgrade pip
 ```
 
 You will need to go into the `tensorflow/fonts` folder and unzip the fonts files. You'll then need to run the `list.sh` script to update the list of fonts.
