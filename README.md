@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # Augmented Reality Sudoku Solver
 
 You can find details on how this project works in the video. You can also try it out here:
